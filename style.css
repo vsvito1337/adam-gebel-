@@ -1,13 +1,13 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(243, 238, 206);
 }
 
-h1 {
-  color: darkblue;
+h2 {
+  color: rgb(77, 80, 87);
   text-align: center;
 }
 
-p {
+h3 {
   font-family: verdana;
   font-size: 20px;
 }
