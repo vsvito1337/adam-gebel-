@@ -1,15 +1,14 @@
 body {
-  background-color: rgb(243, 238, 206);
+  background-color: rgb(117, 255, 202);
 }
 
 h2 {
-  color: rgb(77, 80, 87);
+  color: rgb(33, 240, 223);
   text-align: center;
 }
 
 h3 {
-  font-family: verdana;
-  font-size: 20px;
+   color:rgb(117, 255, 202)
 }
 h1{
   font-size: 200px
